@@ -1,2 +1,2 @@
 # DBMS
-DBMS deadlock simulation algorithm.
+DBMS binary-lock and 2pl algorithms simulation.

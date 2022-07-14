@@ -1,2 +1,2 @@
-# DBMS
-DBMS binary-lock and 2pl algorithms simulation.
+# Locking algorithms
+Simulation for Binary lock and Shared-exclusive algorithms.
